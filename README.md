@@ -1,3 +1,5 @@
-# Stack_Implementation
-Program implementation unisg stack Data Structure.
-A stack is a linear data structure that follows the Last In First Out (LIFO) principle. Elements are added and removed from the top of the stack. The two main operations on a stack are push (adding an element to the top) and pop (removing the top element). Stacks can also have an operation to check the top element without removing it, called peek. It can be implemented using an array or a linked list. Stacks are used in many algorithms and data structures such as depth-first search, undo/redo functionality in text editors, and call stack in programming languages.
+# Data Structures And Algorithms
+Data Structures and Algorithms are two closely related concepts in computer science.
+Data Structures are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. Examples of common data structures include arrays, linked lists, stacks, queues, trees, and graphs.
+Algorithms, on the other hand, are a set of instructions that solve a specific problem or perform a specific task. They can be implemented using various programming languages and can make use of different data structures to solve the problem at hand. Examples of common algorithms include sorting algorithms (e.g. quicksort, mergesort), search algorithms (e.g. binary search, linear search), and graph algorithms (e.g. Dijkstra's shortest path algorithm, Prim's minimum spanning tree algorithm).
+Together, data structures and algorithms form the backbone of computer science, allowing us to create efficient and effective solutions for a wide range of problems. Understanding and being able to apply both concepts is crucial for any computer science professional.
