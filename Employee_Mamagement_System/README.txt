@@ -1,2 +1,2 @@
 - The Program is a simple tool to manage employees' data/record using **Singly Linked List Data Structure**.
-- The Program also includes **File Handling**, so the data/record will not be lost whenever it exits or restarts.
+- The Program also includes *File Handling*, so the data/record will not be lost whenever it exits or restarts.
