@@ -89,8 +89,8 @@ int main()
     DLL s;
     node *head = NULL;
 
-    cout << "\n\t\t" << __TIME__ << "\t\t" << __DATE__ << endl
-         << endl;
+    cout << "\n\t\tDate: " << __TIME__ << "\t\tTime: " << __DATE__ << endl
+             << endl;
 
     cout << "\4 ";
     s.InsertLast(head, 31);
